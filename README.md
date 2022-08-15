@@ -1,10 +1,13 @@
 # Project 15 Dance Landing Page
 
+> MOBILE RESPONSIVE WEBSITE
+
 <br>
 <br>
 <br>
 
 ![Project 15](/project15.png)
+![Project-resposive](https://github.com/Pritika17/Project-15_Product_Design_Landing_Page/blob/main/mob-res-p15.png)
 
 <br>
 <br>
@@ -12,7 +15,7 @@
 
 # Deployed link
 
-[Project 15](https://product-design-landing-page-project15.netlify.app/ "project link")
+[Project 15](https://visual-designer-project-15.netlify.app/ "project link")
 <br>
 <br>
 <br>
