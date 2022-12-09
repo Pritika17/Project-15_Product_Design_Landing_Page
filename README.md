@@ -1,4 +1,4 @@
-# Project 15 Dance Landing Page
+# Project 15 Product Design Landing Page
 
 > MOBILE RESPONSIVE WEBSITE
 
